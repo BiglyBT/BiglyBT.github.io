@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 # Welcome to BiglyBT!
 BiglyBT is a highly configurable and powerful torrent client and has been actively developed since 2003. It has many options nd features for you to discover, but for the new user some guidance may be of help.
 
