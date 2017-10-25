@@ -24,6 +24,10 @@ When you select a download more information about it is available from the tabs 
 * **Tags** are a powerful way of organizing and controlling your downloads - see the <a href="https://github.com/BiglySoftware/BiglyBT/wiki/Tags" target="_blank">wiki</a>.
 * **Swarm Discoveries** offers a way of finding content similar to the things you download - see <a href="https://torrentfreak.com/use-dht-for-a-youtube-like-bittorrent-content-discovery-journey-121027/" target="_blank">this article</a>.
 * The **dashboard** is a new feature that allows you to build your own favorite view within BiglyBT, there are some examples available via right-click menu in the sidebar.
+* **Streaming** allows you to play back content as it is downloading rather than waiting for completion - use the 'Play Now' icon on the left of the toolbar.
+* **Swarm Merging** can be used to speed up downloads and help out others who may be stuck - it utilizes Swarm Discoveries to inform you of potential duplicate swarms to join. Read about it <a href="https://torrentfreak.com/vuze-speeds-up-torrent-downloads-through-swarm-merging-150320/" target="_blank">here</a>.
+* **Plugins** are optional add-ons that extend BiglyBT functionality. Find them <a href="https://plugins.biglybt.com/" target="_blank">here</a> or via the Tools menu. The '3D View' plugin provides a cool swarm view for example.
+* **I2P** is an anonymous overlay network that is simple to configure and use within BiglyBT. Use it for anonymous downloading, chat, or even run your own anonymous tracker.
 
 ### Online Help
 There is various community provided help available via the Community menu - navigate to the 'Public' section under 'Community Chat' to ask other users for advice. Please note that this isn't moderated, BiglyBT has no control over, or responsibility for, any information you may find there.
