@@ -28,6 +28,8 @@ When you select a download more information about it is available from the tabs 
 * **Swarm Merging** can be used to speed up downloads and help out others who may be stuck - it utilizes Swarm Discoveries to inform you of potential duplicate swarms to join. Read about it <a href="https://torrentfreak.com/vuze-speeds-up-torrent-downloads-through-swarm-merging-150320/" target="_blank">here</a>.
 * **Plugins** are optional add-ons that extend BiglyBT functionality. Find them <a href="https://plugins.biglybt.com/" target="_blank">here</a> or via the Tools menu. The '3D View' plugin provides a cool swarm view for example.
 * **I2P** is an anonymous overlay network that is simple to configure and use within BiglyBT. Use it for anonymous downloading, chat, or even run your own anonymous tracker.
+* Set your **Mode** to 'Advanced' via the options setting in order to see more features.
+* Play with the **Seeding Rules** via the 'Queue' options so that you contribute as much as you can to swarms - be nice to downloads with small numbers of seeds to keep them alive! Come and discuss them on chat if confused (see below)
 
 ### Online Help
 There is various community provided help available via the Community menu - navigate to the 'Public' section under 'Community Chat' to ask other users for advice. Please note that this isn't moderated, BiglyBT has no control over, or responsibility for, any information you may find there.
